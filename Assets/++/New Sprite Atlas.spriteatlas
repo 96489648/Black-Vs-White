@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e69c9ee966156bb4aa8302fbc72d820f, type: 3}
+    totalSpriteSurfaceArea: 321173
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4c3ee0013432e0e41a83fcbc9b1df2bc, type: 3}
+  - {fileID: 21300000, guid: 9a5f32d6b14af9e4097b13ca18845938, type: 3}
+  - {fileID: 21300000, guid: 173aca07c2bcaa6448b3bc66273b28f7, type: 3}
+  - {fileID: 21300000, guid: 59225857bac76ac469cb6cfdba076681, type: 3}
+  - {fileID: 21300000, guid: d27a9197c656fe84b813a8c39703c9c5, type: 3}
+  - {fileID: 21300000, guid: 9e0eece7623c12b4eb4f76e4914a23f7, type: 3}
+  - {fileID: 21300000, guid: f1296a488c8ecd14d8e68dc34b7301da, type: 3}
+  - {fileID: 21300000, guid: 8ddf2759ef3db534d8605aa620f423b0, type: 3}
+  - {fileID: 21300000, guid: ce37ad6938f285d4cbe4bf59259ecac0, type: 3}
+  - {fileID: 21300000, guid: 3588626a7f2f23e40b1b2a83e8d1e3ae, type: 3}
+  - {fileID: 21300000, guid: c8985daa9342fef4bbc91561c2abf0d6, type: 3}
+  - {fileID: 21300000, guid: 3ce2fc3de7eae79479d386837a077263, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 7
+  - 11
+  - 10
+  - 3
+  - complete (1)
+  - character
+  - 8
+  - 12
+  - 4
+  - defeat (1)
+  - 2
+  - 1
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
